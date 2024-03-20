@@ -1,0 +1,14 @@
+D:\MacEwan\C#\sharmam54_Assignment2\bin\Debug\net8.0\sharmam54_Assignment2.exe
+D:\MacEwan\C#\sharmam54_Assignment2\bin\Debug\net8.0\sharmam54_Assignment2.deps.json
+D:\MacEwan\C#\sharmam54_Assignment2\bin\Debug\net8.0\sharmam54_Assignment2.runtimeconfig.json
+D:\MacEwan\C#\sharmam54_Assignment2\bin\Debug\net8.0\sharmam54_Assignment2.dll
+D:\MacEwan\C#\sharmam54_Assignment2\bin\Debug\net8.0\sharmam54_Assignment2.pdb
+D:\MacEwan\C#\sharmam54_Assignment2\obj\Debug\net8.0\sharmam54_Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\MacEwan\C#\sharmam54_Assignment2\obj\Debug\net8.0\sharmam54_Assignment2.AssemblyInfoInputs.cache
+D:\MacEwan\C#\sharmam54_Assignment2\obj\Debug\net8.0\sharmam54_Assignment2.AssemblyInfo.cs
+D:\MacEwan\C#\sharmam54_Assignment2\obj\Debug\net8.0\sharmam54_Assignment2.csproj.CoreCompileInputs.cache
+D:\MacEwan\C#\sharmam54_Assignment2\obj\Debug\net8.0\sharmam54_Assignment2.dll
+D:\MacEwan\C#\sharmam54_Assignment2\obj\Debug\net8.0\refint\sharmam54_Assignment2.dll
+D:\MacEwan\C#\sharmam54_Assignment2\obj\Debug\net8.0\sharmam54_Assignment2.pdb
+D:\MacEwan\C#\sharmam54_Assignment2\obj\Debug\net8.0\sharmam54_Assignment2.genruntimeconfig.cache
+D:\MacEwan\C#\sharmam54_Assignment2\obj\Debug\net8.0\ref\sharmam54_Assignment2.dll
